@@ -1,6 +1,6 @@
 pkg install git
 
-git clone https://github.com/car-bomb/hacker/
+git clone https://github.com/cakmahacker/hacker/
 
 cd hacker
 
