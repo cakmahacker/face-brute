@@ -1,3 +1,4 @@
+clear
 echo
 printf "\e[32m[✓]\x1B[33m Lütfen bekleyiniz..."
 echo
