@@ -6,3 +6,5 @@ pkg install git && git clone https://github.com/cakmahacker/hacker && ls && cd h
 ÇALIŞTIRMA🔻
 
 ls && cd hacker && bash setup.sh
+
+TEST EDİLDİ = Termux✅
