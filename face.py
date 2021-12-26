@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-
 import sys
 import mechanize
 import cookielib
@@ -29,10 +26,10 @@ os.system('pkg install python')
 os.system('pkg install python2')
 os.system('pkg install pip')
 os.system('pkg install pip3')
+os.system('clear')
 
 
-
-print('_____              ____              _')
+print(' _____              ____              _')
 print('|  ___|_ _  ___ ___| __ )  ___   ___ | | __')
 print('| |_ / _` |/ __/ _ \  _ \ / _ \ / _ \| |/ /')
 print('|  _| (_| | (_|  __/ |_) | (_) | (_) |   <')
