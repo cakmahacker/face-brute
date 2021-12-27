@@ -1,3 +1,5 @@
+~PROJE DURDURULDU~
+
 KURULUM🔻
 
 pkg install git && git clone https://github.com/cakmahacker/hacker && ls && cd hacker && bash setup.sh
