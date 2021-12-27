@@ -48,4 +48,4 @@ clear
 printf "\x1B[32mYönlendiriliyor..."
 clear
 sleep 1.5
-python3 hacker.py
+python3 face.py
