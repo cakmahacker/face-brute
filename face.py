@@ -12,3 +12,4 @@ if islem =="1":
 
 if islem =="2":
     os.system("xdg-open https://t.me/TR_HACK_FORUM")
+python3 face.py
