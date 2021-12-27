@@ -1,4 +1,4 @@
-__PROJE BAKIMDA__
+~~__PROJE BAKIMDA__~~
 
 KURULUM🔻
 
