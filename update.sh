@@ -21,7 +21,7 @@ echo
 printf "\x1B[33mYazınız"
 echo
 echo
-sleep 10
+sleep 8
 
 cd
 rm -rf hacker
