@@ -1,6 +1,6 @@
+clear
 pkg install figlet
 figlet Cakma Tools
-clear
 sleep 1.2
 printf "\x1B[33mYüklenme"
 sleep 1
