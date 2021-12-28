@@ -1,9 +1,9 @@
 echo
 printf "\x1B[33mYüklenme"
-sleep 0.5
+sleep 1
 clear
 printf "\x1B[33mYüklenme tamamlandıktan"
-sleep 0.5
+sleep 1.5
 clear
 printf "\x1B[33mYüklenme tamamlandıktan sonra" 
 echo
@@ -14,7 +14,9 @@ printf "\x1B[33m
 
 Yazınız"
 echo 
-sleep 6
+echo
+sleep 7
+
 cd
 rm -rf hacker
 git clone https://github.com/cakmahacker/hacker/
