@@ -12,6 +12,8 @@ sleep 1
 printf "\x1B[33m
 1- cd
 2- cd hacker 
+veya
+cd && cd hacker
 
 Yazınız"
 echo 
