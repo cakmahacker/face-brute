@@ -1,11 +1,11 @@
 //__PROJE BAKIMDA__//
 
-~KURULUM🔻~
+~ESKİ KURULUM🔻~
 
 ~pkg install git && git clone https://github.com/cakmahacker/hacker && ls && cd hacker && bash setup.sh~
 
 
-~ÇALIŞTIRMA🔻~
+~ESKİ ÇALIŞTIRMA🔻~
 
 ~ls && cd hacker && bash setup.sh~
 
