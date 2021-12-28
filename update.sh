@@ -19,7 +19,7 @@ echo
 printf "\x1B[32m cd && cd hacker" 
 echo
 printf "\x1B[33mYazınız"
-echo 
+echo
 echo
 sleep 10
 
