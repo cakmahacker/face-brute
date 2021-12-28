@@ -1,5 +1,7 @@
 import os
+import time
 os.system('clear')
+time.sleep(2)
 print()
 print()
 print("      1- İletişim Telegram")
