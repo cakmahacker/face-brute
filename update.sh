@@ -16,7 +16,7 @@ printf "\x1B[32m
 echo
 printf "\x1B[33mVeya" 
 echo
-printf "\x1B[32m cd && cd hacker"
+printf "\x1B[32mcd && cd hacker"
 echo
 printf "\x1B[33mYazınız"
 echo
