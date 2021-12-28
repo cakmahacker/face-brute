@@ -12,11 +12,11 @@ sleep 1
 printf "\x1B[32m
 
 1- cd
-2- cd hacker" 
+2- cd hacker"
 echo
-printf "\x1B[33mveya"
+printf "\x1B[33mVeya"
 echo
-printf "\x1B[32mcd && cd hacker" 
+printf "\x1B[32m cd && cd hacker" 
 echo
 printf "\x1B[33mYazınız"
 echo 
