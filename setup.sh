@@ -4,10 +4,10 @@ printf "\x1B[33m PROJE BAKIMDA"
 echo
 sleep 2
 printf "\x1B[33m DAHA"
-sleep 2
+sleep 1
 printf "\x1B[33m  SONRA"
 echo
-sleep 2
+sleep 1.5
 printf "\e[32m[✓]\x1B[33m TEKRAR DENEYEBİLİR"
 echo
 sleep 2
@@ -17,33 +17,33 @@ echo
 sleep 3
 clear
 printf "\x1B[37mYönlendiriliyor"
-sleep 1.5
+sleep 1
 clear
 printf "\x1B[31mYönlendiriliyor."
-sleep 1.5
+sleep 1
 clear
 printf "\x1B[33mYönlendiriliyor.."
-sleep 1.5
+sleep 1
 clear
 printf "\x1B[32mYönlendiriliyor..."
-sleep 1.5
+sleep 1
 clear
 
 printf "\x1B[31mYönlendiriliyor."
-sleep 1.5
+sleep 1
 clear
 printf "\x1B[33mYönlendiriliyor.."
-sleep 1.5
+sleep 1
 clear
 printf "\x1B[32mYönlendiriliyor..."
-sleep 1.5
+sleep 1
 clear
 
 printf "\x1B[31mYönlendiriliyor."
-sleep 1.5
+sleep 1
 clear
 printf "\x1B[33mYönlendiriliyor.."
-sleep 1.5
+sleep 1
 clear
 printf "\x1B[32mYönlendiriliyor..."
 clear
