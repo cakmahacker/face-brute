@@ -4,13 +4,13 @@ printf "\x1B[33m PROJE BAKIMDA"
 echo
 sleep 2
 printf "\x1B[33m DAHA"
-sleep 1
+sleep 0.5
 printf "\x1B[33m  SONRA"
 echo
-sleep 1.5
+sleep 1
 printf "\e[32m[✓]\x1B[33m TEKRAR DENEYEBİLİR"
 echo
-sleep 2
+sleep 1.5
 printf "\e[32m[✓]\x1B[33m Veya Benimle İletişime Geçebiliriniz..."
 echo
 echo
