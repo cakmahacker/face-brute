@@ -1,4 +1,3 @@
-face.py
 import os
 os.system('clear')
 print()
