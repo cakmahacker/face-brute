@@ -1,1 +1,1 @@
-kodlar silinmştir proje tamamlanınca geri yüklenicek
+kodlar silinmiştir proje tamamlanınca geri yüklenicek
