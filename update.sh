@@ -15,7 +15,8 @@ printf "\x1B[33m
 2- cd hacker 
 
 veya
-        cd && cd hacker
+
+cd && cd hacker
 
 Yazınız"
 echo 
