@@ -9,16 +9,16 @@ clear
 printf "\x1B[33mYüklenme tamamlandıktan sonra" 
 echo
 sleep 1
-printf "\x1B[33m
+printf "\x1B[32m
 
 1- cd
-2- cd hacker 
+2- cd hacker" 
 
-veya
+printf "\x1B[33m"veya"
 
-cd && cd hacker
+printf "\x1B[32m"cd && cd hacker" 
 
-Yazınız"
+printf "\x1B[33m"Yazınız"
 echo 
 echo
 sleep 7
