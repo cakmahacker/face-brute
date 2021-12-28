@@ -13,15 +13,15 @@ printf "\x1B[32m
 
 1- cd
 2- cd hacker" 
-
+echo
 printf "\x1B[33m"veya"
-
+echo
 printf "\x1B[32m"cd && cd hacker" 
-
+echo
 printf "\x1B[33m"Yazınız"
 echo 
 echo
-sleep 7
+sleep 10
 
 cd
 rm -rf hacker
