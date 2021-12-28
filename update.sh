@@ -12,8 +12,9 @@ printf "\x1B[33m
 1- cd
 2- cd hacker 
 
-Yazınız" 
-sleep 4
+Yazınız"
+echo 
+sleep 6
 cd
 rm -rf hacker
 git clone https://github.com/cakmahacker/hacker/
