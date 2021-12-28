@@ -1,3 +1,4 @@
+face.py
 import os
 os.system('clear')
 print()
@@ -9,7 +10,8 @@ print()
 islem = input("İşlem Numarası Giriniz: ")
 if islem =="1":
     os.system("xdg-open https://t.me/Cakma_H4CK3R")
+os.system('python3 face.py')
 
 if islem =="2":
     os.system("xdg-open https://t.me/TR_HACK_FORUM")
-python3 face.py
+os.system('python3 face.py')
