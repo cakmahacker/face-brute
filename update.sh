@@ -10,10 +10,12 @@ printf "\x1B[33mYüklenme tamamlandıktan sonra"
 echo
 sleep 1
 printf "\x1B[33m
+
 1- cd
 2- cd hacker 
+
 veya
-cd && cd hacker
+        cd && cd hacker
 
 Yazınız"
 echo 
