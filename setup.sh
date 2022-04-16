@@ -17,16 +17,16 @@ echo
 sleep 3
 clear
 printf "\x1B[37mYönlendiriliyor"
-sleep 1
+sleep 0.5
 clear
 printf "\x1B[31mYönlendiriliyor."
-sleep 1
+sleep 0.5
 clear
 printf "\x1B[33mYönlendiriliyor.."
-sleep 1
+sleep 0.5
 clear
 printf "\x1B[32mYönlendiriliyor..."
-sleep 1
+sleep 0.5
 clear
 
 printf "\x1B[31mYönlendiriliyor."
